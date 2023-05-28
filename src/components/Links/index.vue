@@ -46,12 +46,12 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://luozongwei.github.io/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://pan.baidu.com/disk/main#/index?category=all",
   },
   {
     icon: CompactDisc,
