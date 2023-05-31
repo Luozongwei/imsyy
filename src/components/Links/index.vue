@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://luozongwei.github.io/",
+    link: "https://www.lzwgxust.top/",
   },
   {
     icon: Cloud,
